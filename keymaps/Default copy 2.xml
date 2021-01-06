@@ -20,6 +20,7 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.CompareCells" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.CopyDdlAction">
@@ -27,7 +28,7 @@
   </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff" />
-  <action id="EditorDuplicate" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="meta #3e9" />
@@ -59,7 +60,7 @@
   </action>
   <action id="SelectInProjectView" />
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="SendEOF" />
   <action id="ServiceView.ShowServices" />
@@ -69,6 +70,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="Uml.ShowDiff" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
