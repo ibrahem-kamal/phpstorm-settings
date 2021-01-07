@@ -8,6 +8,11 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
@@ -43,6 +48,14 @@
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome">
     <keyboard-shortcut first-keystroke="meta b" />
@@ -70,6 +83,10 @@
   <action id="GotoTest" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
+  <action id="List-selectFirstRow" />
+  <action id="List-selectLastRow" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -111,13 +128,19 @@
   </action>
   <action id="SendEOF" />
   <action id="ServiceView.ShowServices" />
+  <action id="ShowSearchHistory" />
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="TableResult.GrowSelection" />
+  <action id="TableResult.ShrinkSelection" />
   <action id="Uml.ShowDiff" />
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
