@@ -144,5 +144,10 @@
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
+  <action id="com.laravel_idea.plugin.i.f.c">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+    <keyboard-shortcut first-keystroke="shift meta less" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
