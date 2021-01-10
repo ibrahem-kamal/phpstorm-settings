@@ -54,6 +54,9 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
@@ -80,6 +83,10 @@
     <mouse-shortcut keystroke="Force touch" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="GotoRow" />
   <action id="GotoTest" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
@@ -149,8 +156,12 @@
   </action>
   <action id="TableResult.GrowSelection" />
   <action id="TableResult.ShrinkSelection" />
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
