@@ -10,4 +10,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="account:res" value="     HiddenField::make('account_id')-&gt;defaultValue($request-&gt;user()-&gt;account_id)&#10;        -&gt;showOnIndex(function () use ($request) {&#10;          return false;&#10;        })&#10;        -&gt;showOnDetail(function () use ($request) {&#10;          return false;&#10;        }),&#10;      BelongsTo::make('Account', 'account', Account::class)&#10;        -&gt;rules('required')&#10;        -&gt;exceptOnForms()," description="add account relation to nova resources" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
