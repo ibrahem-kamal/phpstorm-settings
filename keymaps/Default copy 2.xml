@@ -54,6 +54,14 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="EditorCodeBlockEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="EditorCodeBlockStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
@@ -86,6 +94,7 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="GotoRelated" />
   <action id="GotoRow" />
   <action id="GotoTest" />
   <action id="Jdbc.OpenConsole.New" />
