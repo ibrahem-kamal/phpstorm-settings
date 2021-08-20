@@ -198,6 +198,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
     <keyboard-shortcut first-keystroke="shift meta less" />
   </action>
+  <action id="com.laravel_idea.plugin.generation.d.c">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+    <keyboard-shortcut first-keystroke="shift meta less" />
+  </action>
   <action id="com.laravel_idea.plugin.generation.e.c">
     <keyboard-shortcut first-keystroke="shift meta comma" />
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
