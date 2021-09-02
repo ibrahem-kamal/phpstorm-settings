@@ -1,5 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\Illuminate\Support\Facades\Route.group(attributes,routes)" />
+      </blacklist>
+    </blacklists>
     <option id="php.show.names.for.all.args" value="true" />
     <disabledLanguages>
       <language id="TypeScript" />
