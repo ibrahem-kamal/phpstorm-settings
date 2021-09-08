@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="PHP">
         <added pattern="\Illuminate\Support\Facades\Route.group(attributes,routes)" />
+        <added pattern="\Illuminate\Database\Eloquent\Concerns\QueriesRelationships.withCount(relations)" />
       </blacklist>
     </blacklists>
     <option id="php.show.names.for.all.args" value="true" />
