@@ -6,6 +6,10 @@
           <option name="url" value="http://apollo01.tera-cit.net" />
           <option name="userName" value="ibrahimkamal@tera-cit.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="ibrahemKamal" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
