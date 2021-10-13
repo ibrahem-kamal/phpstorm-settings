@@ -20,4 +20,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="duskTest" value=" /** @test */&#10;    public function ()&#10;    {&#10;        $this-&gt;browse(function (Browser $browser) {&#10;&#10;        });&#10;    }" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
