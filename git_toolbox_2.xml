@@ -1,6 +1,11 @@
 <application>
   <component name="GitToolBoxAppSettings2">
+    <option name="blameInlayConfig">
+      <InlayBlameConfig>
+        <option name="shortenToFitViewport" value="true" />
+      </InlayBlameConfig>
+    </option>
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="3" />
+    <option name="version" value="5" />
   </component>
 </application>
