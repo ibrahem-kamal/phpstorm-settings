@@ -4,6 +4,7 @@
       <blacklist language="PHP">
         <added pattern="\Illuminate\Support\Facades\Route.group(attributes,routes)" />
         <added pattern="\Illuminate\Database\Eloquent\Concerns\QueriesRelationships.withCount(relations)" />
+        <added pattern="\Illuminate\Support\Facades\Route.post(uri,action)" />
       </blacklist>
     </blacklists>
     <option id="php.show.names.for.all.args" value="true" />
