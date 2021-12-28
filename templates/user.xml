@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="trans" value="{{trans.get('admin.app.')}}" description="create trans for vue apps" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
