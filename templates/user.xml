@@ -5,7 +5,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="transs" value="this.trans.get('admin.app.')" toReformat="false" toShortenFQNames="true">
+  <template name="transs" value="this.trans.get('admin.app.')" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
       <option name="VUE_SCRIPT" value="true" />
