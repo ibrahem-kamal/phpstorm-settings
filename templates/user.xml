@@ -11,4 +11,9 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="key" value="    public static $key= '';&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
