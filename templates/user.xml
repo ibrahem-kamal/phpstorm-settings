@@ -16,4 +16,9 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="company" value="         $table-&gt;unsignedInteger('company_id');&#10;            $table-&gt;foreign('company_id')-&gt;references('id')&#10;                -&gt;on('companies')-&gt;onDelete('cascade');" description="create company foriegn key" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
