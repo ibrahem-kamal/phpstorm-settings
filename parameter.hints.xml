@@ -5,6 +5,7 @@
         <added pattern="\Illuminate\Support\Facades\Route.group(attributes,routes)" />
         <added pattern="\Illuminate\Database\Eloquent\Concerns\QueriesRelationships.withCount(relations)" />
         <added pattern="\Illuminate\Support\Facades\Route.post(uri,action)" />
+        <added pattern="\Illuminate\Database\Eloquent\Builder.where(column,operator,value,boolean)" />
       </blacklist>
     </blacklists>
     <option id="php.show.names.for.all.args" value="true" />
