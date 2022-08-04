@@ -6,6 +6,7 @@
         <added pattern="\Illuminate\Database\Eloquent\Concerns\QueriesRelationships.withCount(relations)" />
         <added pattern="\Illuminate\Support\Facades\Route.post(uri,action)" />
         <added pattern="\Illuminate\Database\Eloquent\Builder.where(column,operator,value,boolean)" />
+        <added pattern="\curl_setopt(handle,option,value)" />
       </blacklist>
     </blacklists>
     <option id="php.show.names.for.all.args" value="true" />
