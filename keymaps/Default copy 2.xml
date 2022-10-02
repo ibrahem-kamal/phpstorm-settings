@@ -111,6 +111,9 @@
   <action id="GotoRelated" />
   <action id="GotoRow" />
   <action id="GotoTest" />
+  <action id="IntentionActionAsAction_com.jetbrains.php.lang.intentions.PhpInitializeFieldsIntention">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="List-selectFirstRow" />
