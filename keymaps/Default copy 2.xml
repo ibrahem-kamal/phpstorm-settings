@@ -184,6 +184,9 @@
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="Tool_External Tools_PHP Fixer">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.Log.FocusTextFilter" />
