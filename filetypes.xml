@@ -4,6 +4,7 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="using-a-configuration-file" type="AUTO_DETECTED" />
       <mapping pattern="privateKey" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="stub" type="PHP" />
@@ -36,7 +37,6 @@
       <mapping pattern="determining-the-current-tenant" type="PLAIN_TEXT" />
       <mapping pattern="using-a-custom-tenant-model" type="PLAIN_TEXT" />
       <mapping pattern="single-file-collections" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="migrations" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="forms" type="PLAIN_TEXT" />
