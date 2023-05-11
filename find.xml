@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…/phpstan.neon'" />
+    <option name="defaultScopeName" value="File '…/phpstan.neon'" />
+    <option name="SEARCH_SCOPE" value="File '…/phpstan.neon'" />
     <mask>*.ctp</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
