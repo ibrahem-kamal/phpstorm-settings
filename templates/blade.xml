@@ -1,0 +1,7 @@
+<templateSet group="blade">
+  <template name="trns" value="{{ __('') }}" description="add laravel trans section" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
